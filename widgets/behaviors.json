@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"c9d030ebe3149d664b40fcc8b8c4d14a","name":"Web UI Test Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"28e58bed31d106fecfaea6d153cf9d7b","name":"REST API Test Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
