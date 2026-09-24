@@ -1,0 +1,30 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+*.egg-info/
+
+# Pytest / Allure / Playwright output
+.pytest_cache/
+allure-results/
+allure-report/
+test-results/
+playwright-report/
+blob-report/
+.playwright/
+screenshots/
+traces/
+
+# Environment & local settings
+.env
+*.log
+
+# OS & IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
